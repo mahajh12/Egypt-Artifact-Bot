@@ -1,4 +1,4 @@
-# 🏺 Egyptian Artifact Chatbot — Phase Project
+# 🏺 Egyptian Artifact Chatbot
 
 This project scrapes real-world artifact data from the [Global Egyptian Museum](https://www.globalegyptianmuseum.org), using NLP, analyzes image similarity, and wraps it all into a chatbot interface for inquiry.
 
