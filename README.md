@@ -17,7 +17,7 @@ Not just a bot but a dataset builder, annotator, and a side quest into image und
 - Used spaCy (`en_core_web_sm`) to extract and embed named entities into artifact descriptions.
 - Output: `artifacts_FinalData.json` with both original and enhanced descriptions.
 
-### **Phase 4: **
+### **Phase 4:**
 - Basic duplicate removal on artifact entries by title.
 
 ### **Phase 5: Image Similarity**
